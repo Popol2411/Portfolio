@@ -97,6 +97,7 @@ div.text-box-welcome {
   line-height: 2rem;
   text-align: justify;
   padding: 50px 0px 150px 0px;
+  font-size: 1.5rem;
 }
 
 .profile_photo {
@@ -159,6 +160,7 @@ div.text-box-webdevelopment {
   padding: 100px 30px;
   line-height: 2rem;
   text-align: justify;
+  font-size: 1.5rem;
 }
 
 div.text-box-codingskills {
@@ -180,6 +182,7 @@ div.text-box-codingskills {
   line-height: 2rem;
   text-align: left;
   padding: 100px 0px;
+  font-size: 1.5rem;
 }
 
 div.text-box-projects {
@@ -199,6 +202,7 @@ div.text-box-projects {
   margin: 10px 0 40px;
   line-height: 2rem;
   padding: 100px 30px;
+  font-size: 1.5rem;
 }
 
 .github {
@@ -215,7 +219,7 @@ div.text-box-projects {
   text-align: center;
   min-height: 250px;
   min-width: 275px;
-  filter: grayscale(1) blur(3px);
+  filter: grayscale(1);
   --fa-beat-fade-scale: 1;
   --fa-beat-fade-opacity: 1;
   border: solid black 1px;
